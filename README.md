@@ -13,4 +13,4 @@
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <img src="https://github-profile-trophy.vercel.app/?username=azaareer93&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaareer93&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
