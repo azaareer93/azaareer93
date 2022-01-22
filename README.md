@@ -7,10 +7,8 @@
 </p>
 <br>
 
-<p><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=azaareer93&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="azaareer93"
-bg_color=#808080/></p>
-<br>
-
 ![azaareer93's Activity Graph](https://activity-graph.herokuapp.com/graph?username=azaareer93&custom_title=Azaareer93%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+
+## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
+<img src="https://github-profile-trophy.vercel.app/?username=azaareer93&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
